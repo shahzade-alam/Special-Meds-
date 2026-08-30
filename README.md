@@ -1,4 +1,4 @@
-# SpecialMeds
+# specialmeds
 
 A healthcare and e-commerce web application developed using PHP and Laravel.
 
