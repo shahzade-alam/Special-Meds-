@@ -31,7 +31,7 @@ PHP / Laravel Developer
 
 ## Live Demo
 
-https://www.specialmeds.in/customer/auth/sign-up
+[Visit SpecialMeds](https://www.specialmeds.in/customer/auth/sign-up)
 
 ## Note
 
